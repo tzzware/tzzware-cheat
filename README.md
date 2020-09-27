@@ -1,2 +1,0 @@
-# tzzware-cheat
-loader tzzware
